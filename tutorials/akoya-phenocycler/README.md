@@ -18,10 +18,9 @@ Phenocycler is a spatial proteomics platform that enables:
 - [Introduction to Phenocycler Data](getting-started.md) *(coming soon)*
 - [Understanding the CODEX Workflow](codex-workflow.md) *(coming soon)*
 
-### Image Processing
-- [Image Quality Control](image-qc.md) *(coming soon)*
-- [Background Subtraction](background-subtraction.md) *(coming soon)*
-- [Channel Crosstalk Correction](crosstalk-correction.md) *(coming soon)*
+### Initial Processing
+- [Converting qptiff to ome.tiff](qptiff_to_ome.tiff.md) *(coming soon)*
+- [tbd](crosstalk-correction.md) *(coming soon)*
 
 ### Cell Segmentation
 - [Nuclear Segmentation](nuclear-segmentation.md) *(coming soon)*
