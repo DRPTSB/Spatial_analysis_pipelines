@@ -19,7 +19,7 @@ Phenocycler is a spatial proteomics platform that enables:
 - [Understanding the CODEX Workflow](codex-workflow.md) *(coming soon)*
 
 ### Initial Processing
-- [Converting qptiff to ome.tiff](qptiff_to_ome.md) *(coming soon)*
+- [01-Converting qptiff to ome.tiff](qptiff_to_ome.md) 
 - [tbd](crosstalk-correction.md) *(coming soon)*
 
 ### Cell Segmentation
