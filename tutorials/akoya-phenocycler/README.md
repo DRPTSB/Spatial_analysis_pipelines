@@ -9,14 +9,12 @@ This section contains tutorials for analyzing data from **Akoya Biosciences Phen
 Phenocycler is a spatial proteomics platform that enables:
 - Highly multiplexed protein detection (40+ markers)
 - Single-cell resolution imaging
-- Subcellular localization analysis
-- Compatible with FFPE and fresh frozen tissues
-
+- Data comes in the form of a qptiff image format which is supported by some software (e.g. qupath) but we will convert to the more brade use and standard ome.tiff format for downstream applications
 ## Tutorials
 
 ### Initial Processing
-- [01-Converting qptiff to ome.tiff](qptiff_to_ome.md) 
-- [tbd](crosstalk-correction.md) *(coming soon)*
+- [01-Converting qptiff to ome.tiff with bfconvert command line](qptiff_to_ome.md) 
+- [01-Converting qptiff to ome.tiff with NGFF converter](.md) 
 
 ### Cell Segmentation
 - [Nuclear Segmentation](nuclear-segmentation.md) *(coming soon)*
