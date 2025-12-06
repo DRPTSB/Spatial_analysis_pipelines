@@ -19,6 +19,7 @@ Phenocycler is a spatial proteomics platform that enables:
 - [Converting qptiff to ome.tiff with QuPath](qptiff_to_ome_with_qupath.md) 
 
 #### 02 - image alignement between Xenium and APC
+- [advanced alignent between dapi and h&e with fiji](https://www.10xgenomics.com/analysis-guides/he-to-xenium-dapi-image-registration-with-fiji)
 
 #### 03 - Cell Segmentation
 - [runnig stardist on the APC data](nuclear-segmentation.md) *(coming soon)*
