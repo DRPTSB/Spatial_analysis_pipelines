@@ -22,6 +22,11 @@ Xenium is a high-plex in situ spatial platform that enables:
 - [QC Metrics and Thresholds](qc-metrics.md) *(coming soon)*
 - [Cell Segmentation Quality](cell-segmentation.md) *(coming soon)*
 
+### Region segmentation 
+- [Annotation of tissue regions guided by gene expression with TissueTag2](coming soon)
+- [Annotation with Xenium explorer]
+- [Annotation with QuPath] 
+
 ### Analysis Workflows
 - [Cell Type Identification](cell-typing.md) *(coming soon)*
 - [Spatial Gene Expression](spatial-expression.md) *(coming soon)*
