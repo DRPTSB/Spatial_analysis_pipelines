@@ -13,7 +13,8 @@ Phenocycler is a spatial proteomics platform that enables:
 ## Processing pipeline for analysis with a paired Xenium sample
 
 #### 01 - converting qptiff to ome.tiff 
-- [Converting qptiff to ome.tiff with bfconvert command line](qptiff_to_ome_with_bftools.md) 
+- [Converting qptiff to ome.tiff with bfconvert command line](qptiff_to_ome_with_bftools.md)
+  I found this option to be ideal as it produced the most robust conversion (effectively both qupath and NGFF probably use bioformats in the backhand anyway) 
 - [Converting qptiff to ome.tiff with NGFF converter](qptiff_to_ome_with_NGFF.md)
 - [Converting qptiff to ome.tiff with QuPath](qptiff_to_ome_with_qupath.md) 
 
