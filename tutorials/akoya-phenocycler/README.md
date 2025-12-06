@@ -1,8 +1,8 @@
-# Akoya Phenocycler Tutorials
+# Akoya Phenocycler (APC) Tutorials
 
 ## Overview
 
-This section contains tutorials for analyzing data from **Akoya Biosciences Phenocycler** (formerly CODEX) platform, which provides highly multiplexed immunofluorescence imaging.
+This section contains tutorials for analyzing data from **Akoya Biosciences Phenocycler (APC)** (formerly CODEX) platform, which provides highly multiplexed immunofluorescence imaging.
 
 ## What is Phenocycler?
 
@@ -12,27 +12,24 @@ Phenocycler is a spatial proteomics platform that enables:
 - Data comes in the form of a qptiff image format which is supported by some software (e.g. qupath) but we will convert to the more brade use and standard ome.tiff format for downstream applications
 ## Processing pipeline for analysis with a paired Xenium sample
 
-### 01 - converting qptiff to ome.tiff 
+#### 01 - converting qptiff to ome.tiff 
 - [Converting qptiff to ome.tiff with bfconvert command line](qptiff_to_ome_with_bftools.md) 
 - [Converting qptiff to ome.tiff with NGFF converter](qptiff_to_ome_with_NGFF.md)
 - [Converting qptiff to ome.tiff with QuPath](qptiff_to_ome_with_qupath.md) 
 
+#### 02 - image alignement between Xenium and APC
 
-### Cell Segmentation
-- [Nuclear Segmentation](nuclear-segmentation.md) *(coming soon)*
-- [Cell Boundary Detection](cell-boundary.md) *(coming soon)*
+#### 03 - Cell Segmentation
+- [runnig stardist on the APC data](nuclear-segmentation.md) *(coming soon)*
+- [harnassing xenium segmentation masks for APC data](cell-boundary.md) *(coming soon)*
 - [Comparing Segmentation Methods](segmentation-comparison.md) *(coming soon)*
 
-### Analysis Workflows
-- [Marker Intensity Normalization](normalization.md) *(coming soon)*
+#### 04 - Analysis Workflows
 - [Cell Phenotyping](cell-phenotyping.md) *(coming soon)*
 - [Spatial Organization Analysis](spatial-organization.md) *(coming soon)*
 - [Neighborhood Enrichment](neighborhood-enrichment.md) *(coming soon)*
 
-### Advanced Topics
-- [Multi-tissue Analysis](multi-tissue.md) *(coming soon)*
-- [Panel Optimization](panel-optimization.md) *(coming soon)*
-- [Machine Learning for Phenotyping](ml-phenotyping.md) *(coming soon)*
+
 
 ## Common Pitfalls
 
