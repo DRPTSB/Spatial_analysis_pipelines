@@ -10,12 +10,12 @@ Phenocycler is a spatial proteomics platform that enables:
 - Highly multiplexed protein detection (40+ markers)
 - Single-cell resolution imaging
 - Data comes in the form of a qptiff image format which is supported by some software (e.g. qupath) but we will convert to the more brade use and standard ome.tiff format for downstream applications
-## Tutorials
+## Processing pipeline for analysis with a paired Xenium sample
 
-### Initial Processing
-- [01-Converting qptiff to ome.tiff with bfconvert command line](qptiff_to_ome_with_bftools.md) 
-- [01-Converting qptiff to ome.tiff with NGFF converter](qptiff_to_ome_with_NGFF.md)
-- [01-Converting qptiff to ome.tiff with QuPath](qptiff_to_ome_with_qupath.md) 
+### 01 - converting qptiff to ome.tiff 
+- [Converting qptiff to ome.tiff with bfconvert command line](qptiff_to_ome_with_bftools.md) 
+- [Converting qptiff to ome.tiff with NGFF converter](qptiff_to_ome_with_NGFF.md)
+- [Converting qptiff to ome.tiff with QuPath](qptiff_to_ome_with_qupath.md) 
 
 
 ### Cell Segmentation
