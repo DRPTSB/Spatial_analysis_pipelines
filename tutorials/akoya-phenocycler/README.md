@@ -20,6 +20,7 @@ Phenocycler is a spatial proteomics platform that enables:
 
 #### 02 - image alignement between Xenium and APC
 - [advanced alignent between dapi and h&e with fiji](https://www.10xgenomics.com/analysis-guides/he-to-xenium-dapi-image-registration-with-fiji)
+- [image alignemnt with Xenium explorer](https://www.10xgenomics.com/support/software/xenium-explorer/latest/tutorials/xe-image-alignment)
 
 #### 03 - Cell Segmentation
 - [runnig stardist on the APC data](nuclear-segmentation.md) *(coming soon)*
