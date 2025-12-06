@@ -13,8 +13,8 @@ Phenocycler is a spatial proteomics platform that enables:
 ## Tutorials
 
 ### Initial Processing
-- [01-Converting qptiff to ome.tiff with bfconvert command line](qptiff_to_ome.md) 
-- [01-Converting qptiff to ome.tiff with NGFF converter](.md) 
+- [01-Converting qptiff to ome.tiff with bfconvert command line](qptiff_to_ome_with_bftools.md) 
+- [01-Converting qptiff to ome.tiff with NGFF converter](qptiff_to_ome_with_NGFF.md) 
 
 ### Cell Segmentation
 - [Nuclear Segmentation](nuclear-segmentation.md) *(coming soon)*
