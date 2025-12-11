@@ -28,9 +28,8 @@ Xenium is a high-plex in situ spatial platform that enables:
 - [Annotation with QuPath] 
 
 ### Analysis Workflows
-- [Cell Type Identification](cell-typing.md) *(coming soon)*
-- [Spatial Gene Expression](spatial-expression.md) *(coming soon)*
-- [Neighborhood Analysis](neighborhood-analysis.md) *(coming soon)*
+- [Squidpy tutorial]([cell-typing.md](https://squidpy.readthedocs.io/en/stable/notebooks/tutorials/tutorial_xenium.html)) 
+
 
 ### Advanced Topics
 - [Integration with scRNA-seq](scrna-integration.md) *(coming soon)*
