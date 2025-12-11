@@ -28,7 +28,7 @@ Xenium is a high-plex in situ spatial platform that enables:
 - [Annotation with QuPath] 
 
 ### Analysis Workflows
-- [Squidpy tutorial]([cell-typing.md](https://squidpy.readthedocs.io/en/stable/notebooks/tutorials/tutorial_xenium.html)) 
+- [Squidpy tutorial](https://squidpy.readthedocs.io/en/stable/notebooks/tutorials/tutorial_xenium.html)
 
 
 ### Advanced Topics
