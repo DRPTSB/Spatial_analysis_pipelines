@@ -7,7 +7,7 @@ This section contains tutorials for analyzing data from **10x Genomics Visium HD
 ## What is VisiumHD?
 
 VisiumHD is a spatial transcriptomics platform that offers:
-- High-resolution spatial gene expression (8µm bins)
+- High-resolution spatial gene expression (2µm bins)
 - Whole transcriptome coverage
 - Continuous tissue coverage
 - Compatible with H&E and immunofluorescence imaging
@@ -15,8 +15,7 @@ VisiumHD is a spatial transcriptomics platform that offers:
 ## Tutorials
 
 ### Getting Started
-- [Introduction to VisiumHD Data](getting-started.md) *(coming soon)*
-- [Data Loading and Structure](data-structure.md) *(coming soon)*
+
 
 ### Quality Control
 - [QC Metrics Overview](qc-metrics.md) *(coming soon)*
@@ -24,10 +23,8 @@ VisiumHD is a spatial transcriptomics platform that offers:
 - [Spot Quality Assessment](spot-quality.md) *(coming soon)*
 
 ### Analysis Workflows
-- [Bin Size Selection](bin-selection.md) *(coming soon)*
-- [Clustering and Annotation](clustering.md) *(coming soon)*
-- [Spatial Feature Expression](spatial-features.md) *(coming soon)*
-- [Domain Identification](domain-identification.md) *(coming soon)*
+- [segmentation with bin2cell](https://github.com/Teichlab/bin2cell)
+
 
 ### Advanced Topics
 - [Cell Type Deconvolution](deconvolution.md) *(coming soon)*
