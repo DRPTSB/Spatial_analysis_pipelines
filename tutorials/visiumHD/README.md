@@ -18,31 +18,20 @@ VisiumHD is a spatial transcriptomics platform that offers:
 
 
 ### Quality Control
-- [QC Metrics Overview](qc-metrics.md) *(coming soon)*
-- [Tissue Detection QC](tissue-detection.md) *(coming soon)*
-- [Spot Quality Assessment](spot-quality.md) *(coming soon)*
 
 ### Analysis Workflows
 - [segmentation with bin2cell](https://github.com/Teichlab/bin2cell)
 
 
 ### Advanced Topics
-- [Cell Type Deconvolution](deconvolution.md) *(coming soon)*
-- [Integration with Single-cell Data](single-cell-integration.md) *(coming soon)*
-- [Multi-resolution Analysis](multi-resolution.md) *(coming soon)*
+
 
 ## Common Pitfalls
 
-1. **Bin size selection**: Choose based on tissue type and biological question
-2. **Edge effects**: Be cautious when interpreting signals at tissue boundaries
-3. **Library complexity**: Ensure adequate sequencing depth across the tissue
 
 ## Recommended Tools
 
-- **Space Ranger**: 10x Genomics analysis pipeline
-- **Seurat v5**: R package with native Visium HD support
-- **Scanpy**: Python ecosystem for spatial analysis
-- **STUtility**: R package for spatial transcriptomics
+
 
 ## Resources
 
