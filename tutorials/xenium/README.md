@@ -37,16 +37,10 @@ Xenium is a high-plex in situ spatial platform that enables:
 
 ## Common Pitfalls
 
-1. **Cell segmentation artifacts**: Over/under-segmentation can affect downstream analysis
-2. **Transcript misassignment**: Consider using probabilistic methods for assignment
-3. **Batch effects**: Process samples consistently and consider batch correction
 
 ## Recommended Tools
 
-- **Xenium Analyzer**: Official 10x analysis software
-- **Seurat**: R package for spatial analysis
-- **Squidpy**: Python package for spatial omics
-- **Giotto**: R toolkit for spatial transcriptomics
+
 
 ## Resources
 
