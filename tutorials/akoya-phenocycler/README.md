@@ -25,29 +25,19 @@ Phenocycler is a spatial proteomics platform that enables:
 #### 03 - Cell Segmentation
 - [runnig stardist on the APC data](nuclear-segmentation.md) *(coming soon)*
 - [harnassing xenium segmentation masks for APC data](cell-boundary.md) *(coming soon)*
-- [Comparing Segmentation Methods](segmentation-comparison.md) *(coming soon)*
+
 
 #### 04 - Analysis Workflows
-- [Cell Phenotyping](cell-phenotyping.md) *(coming soon)*
-- [Spatial Organization Analysis](spatial-organization.md) *(coming soon)*
-- [Neighborhood Enrichment](neighborhood-enrichment.md) *(coming soon)*
+
 
 
 
 ## Common Pitfalls
 
-1. **Autofluorescence**: Proper controls and correction are essential
-2. **Antibody cross-reactivity**: Validate panels thoroughly
-3. **Segmentation errors**: Use multiple nuclear and membrane markers when possible
-4. **Batch effects**: Standardize staining and imaging protocols
 
 ## Recommended Tools
 
-- **MAV (Multiplex Analysis Viewer)**: Akoya's analysis software
-- **QuPath**: Open-source bioimage analysis
-- **HALO**: Digital pathology platform
-- **Squidpy**: Python package for spatial omics
-- **CellProfiler**: Open-source cell image analysis
+
 
 ## Resources
 
