@@ -45,7 +45,7 @@ Xenium is a high-plex in situ spatial platform that enables:
 ## Resources
 
 - [10x Genomics Xenium Documentation](https://www.10xgenomics.com/support/software/xenium-analyzer)
-- [Xenium Gene Panel Design Guide](https://www.10xgenomics.com/support/in-situ-gene-expression/documentation)
+- [https://www.10xgenomics.com/support/in-situ-gene-expression/documentation](https://www.10xgenomics.com/support/in-situ-gene-expression/documentation/steps/panel-design))
 
 ---
 
